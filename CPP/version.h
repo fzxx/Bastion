@@ -1,0 +1,22 @@
+#ifndef VERSION_H
+#define VERSION_H
+
+#define VER_MAJOR 1
+#define VER_MINOR 0
+#define VER_PATCH 0
+#define VER_BUILD 0
+
+#define VER_FILEVERSION VER_MAJOR,VER_MINOR,VER_PATCH,VER_BUILD
+#define VER_PRODUCTVERSION VER_MAJOR,VER_MINOR,VER_PATCH,VER_BUILD
+
+#define VER_FILEVERSION_STR "1.0.0.0"
+#define VER_PRODUCTVERSION_STR "1.0.0.0"
+
+#define VER_COMPANY_NAME "风之暇想"
+#define VER_FILE_DESCRIPTION "Bastion 棱堡"
+#define VER_INTERNAL_NAME "Bastion"
+#define VER_LEGAL_COPYRIGHT "Copyright (C) 风之暇想"
+#define VER_ORIGINAL_FILENAME "Bastion"
+#define VER_PRODUCT_NAME "Bastion 棱堡"
+
+#endif
